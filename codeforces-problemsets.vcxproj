@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="domino piling.cpp" />
+    <ClCompile Include="helpful_maths.cpp" />
     <ClCompile Include="next_round.cpp" />
+    <ClCompile Include="petya_and_strings.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

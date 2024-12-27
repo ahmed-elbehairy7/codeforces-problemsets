@@ -18,5 +18,14 @@
     <ClCompile Include="next_round.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="domino piling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="petya_and_strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="helpful_maths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int next_round() {
 	int n, k;
 
 	cin >> n >> k;
